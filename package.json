@@ -1,0 +1,14 @@
+{
+  "name": "knative-serving-helloworld",
+  "version": "1.0.0",
+  "description": "Simple hello world sample in Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
