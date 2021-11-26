@@ -1,13 +1,12 @@
 {
-  "name": "knative-serving-helloworld",
+  "name": "werun-websocket",
   "version": "1.0.0",
-  "description": "Simple hello world sample in Node",
+  "description": "Simple websocket sample in Node",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "Apache-2.0",
+  "author": "zirali",
   "dependencies": {
     "nodejs-websocket": "^1.7.2"
   }
